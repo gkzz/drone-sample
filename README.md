@@ -1,5 +1,7 @@
 # Drone on localhost
 
+<img src="/docs/img/demo.png" alt="Register Oauth" style="max-width:5%;">
+
 Based on
 - [drone.io 1.0を使ってみる](https://qiita.com/mmhiyoko/items/7669e44652052468fb3b)
 
@@ -27,5 +29,6 @@ gkz@localhost ~/workspace/drone-sample (master) $ docker-compose up -d --build
 - Register a new OAuth application
 
 <img src="/docs/img/register_oauth.png" alt="Register Oauth" style="max-width:5%;">
+
 
 - [Ngrok Tutorial](/docs/ngrok_tutorial.md)
