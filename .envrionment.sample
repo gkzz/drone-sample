@@ -1,0 +1,7 @@
+# tail ~/.bashrc
+
+export DRONE_GITHUB_CLIENT_ID=aaaaaaaaaaa
+export DRONE_GITHUB_CLIENT_SECRET=bbbbbbbbbbbbb
+export DRONE_RPC_SECRET=cccccccccccccc
+export DRONE_SERVER_HOST=hogehoge.ngrok.io
+

@@ -1,0 +1,15 @@
+# genenral
+.
+..
+
+# db
+*.sqlite
+
+
+# vscode
+.vscode
+
+
+# env
+.env
+*.env
