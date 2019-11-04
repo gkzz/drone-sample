@@ -24,6 +24,11 @@ export DRONE_SERVER_HOST=hogehoge.ngrok.io
 gkz@localhost ~/workspace/drone-sample (master) $ docker-compose up -d --build
 ```
 
+## Technologies Used
+- Docker 19.03.4
+  - drone/drone:1
+- docker-compose 1.24.1
+
 ## Notes
 
 - Register a new OAuth application
